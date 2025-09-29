@@ -1,6 +1,6 @@
 # --- JetBrains Rider specific files ---
 # Covers IDE settings, local caches, and temporary files.
-.idea/
+/.idea/
 /shelf/
 *.sln.DotSettings.user
 Scratches and Consoles/
